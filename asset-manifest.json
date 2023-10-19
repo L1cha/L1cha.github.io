@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.960766d2.css",
+    "main.js": "/static/js/main.debba8db.js",
+    "static/js/787.47a1424c.chunk.js": "/static/js/787.47a1424c.chunk.js",
+    "static/media/webImage.jpg": "/static/media/webImage.fe07706e4895276139f4.jpg",
+    "index.html": "/index.html",
+    "main.960766d2.css.map": "/static/css/main.960766d2.css.map",
+    "main.debba8db.js.map": "/static/js/main.debba8db.js.map",
+    "787.47a1424c.chunk.js.map": "/static/js/787.47a1424c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.960766d2.css",
+    "static/js/main.debba8db.js"
+  ]
+}
